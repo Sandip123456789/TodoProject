@@ -1,0 +1,21 @@
+  ● TodoProject
+|
++---● todos (app folder)
+|   |
+|   +--● migrations (includes files related to migrations)
+|   |  
+|   +--● templates
+|   |  |--● todo_register
+|   |  |  |--base.html
+|   |  |  |--todo_form.html
+|   |  |  |--todo_list.html
+|   | 
+|   |-- models.py
+|   |-- forms.py
+|   |-- urls.py
+|   |-- views.py
+|
++---● TodoProject (project folder)
+|   |
+|   |--settings.py 
+|   |--urls.py
